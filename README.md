@@ -1,8 +1,8 @@
 # Hi, I'm TomatoCake 🍅🍰!
 
 - Owner of [TomatenKuchen](https://tomatenkuchen.eu), [shorter.cf](https://shorter.cf) and [Vanilla Minigames](https://vanillaminigames.eu)
-- Add me on Discord under [TomatoCake#2691](https://discord.com/users/581146486646243339) or join [Vanilla Minigames Discord (de)](https://discord.gg/JXVDQFf)
-- Germany 🇩🇪
+- Add me on Discord under [devtomatocake](https://discord.com/users/581146486646243339) or join [Vanilla Minigames Discord (de)](https://discord.gg/JXVDQFf)
+- German 🇩🇪
 
 ## Editors, Languages & Frameworks
 <div style="display: flex;">
