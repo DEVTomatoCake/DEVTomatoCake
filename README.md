@@ -1,8 +1,11 @@
-# Hi, I'm TomatoCake 🍅🍰!
+# Hi .-.
 
-- Owner of [TomatenKuchen](https://tomatenkuchen.com), [shorter.cf](https://shorter.cf) and [Vanilla Minigames](https://vanillaminigames.net)
-- Add me on Discord at [devtomatocake](https://discord.com/users/581146486646243339) or join [Vanilla Minigames Discord 🇩🇪](https://discord.gg/JXVDQFf)
-- German 🇩🇪
+🍅🍰
+
+- Owner of [TomatenKuchen](https://tomatenkuchen.com), [sh0rt.zip](https://sh0rt.zip) and [Vanilla Minigames](https://vanillaminigames.net)
+- Developer of [DisStat](https://github.com/DisStat) and [DisGitHook](https://github.com/DisGitHook)
+- Add me on [Discord](https://discord.com/users/581146486646243339) or join the [Vanilla Minigames Discord 🇩🇪](https://discord.gg/JXVDQFf)
+- German
 
 ## Editors, Languages & Frameworks
 <div style="display: flex;">
